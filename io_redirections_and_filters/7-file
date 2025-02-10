@@ -1,2 +1,2 @@
 #!/bin/bash
-touch "\\*\\\\'\"Best School\"'\\\\*\$\?\*\*\*\*\*:)"
+echo -e "why was this so hard to find ?" >> "\\*\\\\'\"Best School\"\\'\\\\*$\\?\\*\\*\\*\\*\\*:)"
